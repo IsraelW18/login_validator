@@ -1,4 +1,4 @@
-# 🔐 Python Login Validator
+# 🔐 Python Login Validator Mechanism
 
 A modular Python project that validates username and password input based on predefined rules, using custom exceptions, object-oriented design, and regular expressions. This project is structured for clarity, scalability, and professional-level maintainability.
 
